@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m SHAURYASANYAL3!
 
-<!--
-**SHAURYASANYAL3/SHAURYASANYAL3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🧑‍💻 First year BTech student specializing in **Cybersecurity**
+- 🔥 Passionate about tech, coding, and digital security
+- 💡 Always learning and exploring new tech trends
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Skills
+- **C**
+- **C++**
+- **Python**
+- **HTML**
+- **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Academic Journey
+- Currently studying BTech, 1st year (Cybersecurity)
+
+### 🌟 Top Projects
+- [Hand Detection](https://github.com/SHAURYASANYAL3/hand-detection)
+
+### 🏆 Certificates
+[Coursera PDR0JO96NVK6.pdf](https://github.com/user-attachments/files/22565584/Coursera.PDR0JO96NVK6.pdf)
+[Coursera BLHYE751ZP5L.pdf](https://github.com/user-attachments/files/22565586/Coursera.BLHYE751ZP5L.pdf)
+
+
+
+### 🌸 Hobbies & Interests
+- Reading manga, novels, and manhwa
+- Watching anime
+
+### 📲 Connect With Me
+- **Instagram:** [@ryomen_foxy](https://instagram.com/ryomen_foxy)
+
+---
+
+> “Striving to blend my passion for cybersecurity with my love for stories and creativity!”
