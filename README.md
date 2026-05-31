@@ -8,9 +8,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=SHAURYASANYAL3&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/SHAURYASANYAL3?style=flat-square&color=0366d6&label=FOLLOWERS)
-<a href="https://linkedin.com/in/shauryasanyal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shaurya@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/shaurya-sanyal-7b57a0382"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shauryasanyal.21jun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://fool-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
