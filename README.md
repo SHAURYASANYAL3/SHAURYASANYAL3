@@ -91,13 +91,13 @@ These are the repositories I'd pin on GitHub:
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/master/github-metrics.svg" alt="Metrics" width="800" />
+  <img src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/main/github-metrics.svg" alt="Metrics" width="800" />
 </div>
 
 ## 🧊 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/master/profile-3d-contrib/profile-night-view.svg" alt="3D Contrib" />
+  <img src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contrib" />
 </div>
 
 ## 🐍 Contribution Grid Snake
