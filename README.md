@@ -49,7 +49,6 @@ These are the repositories I'd pin on GitHub:
 | Project | Description | Why it stands out |
 |---------|-------------|-------------------|
 | **[AgentIAM](https://github.com/SHAURYASANYAL3/AgentIAM)** | AI + Security IAM | Identity & Access Management is a serious engineering domain. Signals Authentication, Authorization, Security Architecture, and AI Systems. |
-
 | **[E-Vara](https://github.com/SHAURYASANYAL3/E-Vara)** | Digital Reputation Protection | Unique AI + Security combination that stands out more than a simple chatbot clone. |
 | **[SafeRoute](https://github.com/SHAURYASANYAL3/SafeRoute)** | Real-world problem | Student safety use case showing practical product thinking over toy AI demos. |
 | **[RyuOS](https://github.com/SHAURYASANYAL3/RyuOS)** | Debian Customization | Rare among students. Demonstrates Linux, systems programming, and technical depth. |
