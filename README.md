@@ -30,43 +30,55 @@ I am a passionate **CS undergrad** and **Researcher** crafting high-performance 
   <img src="./winter-banner.svg" alt="Winter Banner" width="800" />
 </div>
 
-## 🛡️ Tech Stack
+## 🧠 Skills & Expertise
 
-### Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,go,rust&theme=dark" />
-  </a>
-</p>
+### 🛡️ Strong Evidence
+- **Languages:** Python, SQL, TypeScript, JavaScript, HTML/CSS
+- **AI & Data:** AI Application Development, AI Agents, LLM Integrations
+- **Software Engineering:** Full Stack Development, Product Development, Startup MVP Building
+- **Infrastructure:** Linux Fundamentals
 
-### Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,vite&theme=dark" />
-  </a>
-</p>
+### 🔬 Moderate Evidence
+- **AI & ML:** Machine Learning, Recommender Systems, Reinforcement Learning
+- **Security:** Cybersecurity Fundamentals, IAM Concepts
+- **Other:** Database Design, Open Source Contributions
 
-### Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,graphql&theme=dark" />
-  </a>
-</p>
+## 🏆 Repos to Show Off
+These are the repositories I'd pin on GitHub:
 
-### DevOps & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,gcp,linux&theme=dark" />
-  </a>
-</p>
+| Project | Description | Why it stands out |
+|---------|-------------|-------------------|
+| **[AgentIAM](https://github.com/SHAURYASANYAL3/AgentIAM)** | AI + Security IAM | Identity & Access Management is a serious engineering domain. Signals Authentication, Authorization, Security Architecture, and AI Systems. |
+| **[TrustLayer](https://github.com/SHAURYASANYAL3/TrustLayer)** | Founder Project | Strong branding and security-focused flagship repository with architecture and APIs. |
+| **[E-Vara](https://github.com/SHAURYASANYAL3/E-Vara)** | Digital Reputation Protection | Unique AI + Security combination that stands out more than a simple chatbot clone. |
+| **[SafeRoute](https://github.com/SHAURYASANYAL3/SafeRoute)** | Real-world problem | Student safety use case showing practical product thinking over toy AI demos. |
+| **[RyuOS](https://github.com/SHAURYASANYAL3/RyuOS)** | Debian Customization | Rare among students. Demonstrates Linux, systems programming, and technical depth. |
+| **[AgentWatch](https://github.com/SHAURYASANYAL3/AgentWatch)** | Open-source Contribution | Contributed 7 merged PRs. Real open-source contributions in AI infrastructure showing collaboration experience. |
 
-## 🏰 External Projects
+## 📜 Certifications: What They Actually Prove
 
-| Project | Repo | Stars | Tech |
-|---------|------|-------|------|
-| **Winterfell** | [Repo](https://github.com/SHAURYASANYAL3/winterfell) | ★45 | Python, Redis |
-| **Castle Black** | [Repo](https://github.com/SHAURYASANYAL3/castle-black) | ★32 | Go, Docker |
-| **King's Landing** | [Repo](https://github.com/SHAURYASANYAL3/kings-landing) | ★120 | React, Node |
+### 🤖 AI / Machine Learning
+*   **Supervised Machine Learning: Regression and Classification** (DeepLearning.AI / Andrew Ng) - *Shows understanding of: Linear Regression, Logistic Regression, Classification, Basic ML workflows*
+*   **Advanced Learning Algorithms** (DeepLearning.AI + Stanford) - *Shows exposure to: Neural Networks, TensorFlow basics, Decision Trees, Ensemble methods*
+*   **Unsupervised Learning, Recommenders, Reinforcement Learning** (DeepLearning.AI) - *Shows exposure to: Clustering, Recommender Systems, Basic Reinforcement Learning*
+
+### 🔐 Cybersecurity
+*   **Deloitte Australia Cyber Job Simulation** - *Shows exposure to: Cybersecurity workflows, Threat analysis, Security reporting*
+
+### 📊 Data
+*   **Deloitte Australia Data Analytics Job Simulation** - *Shows exposure to: Data analysis, Business analytics, Visualization*
+
+### 💼 Technology Consulting & Business
+*   **Deloitte Australia Technology Job Simulation** - *Shows exposure to: Consulting mindset, Technology recommendations*
+*   **Entrepreneurship & Skill Development Program** (RTIH AP)
+*   **Google Bring AI to Work Workshop**
+*   **DUHacks Participation Certificate**
+
+### 💻 Programming
+*   **HackerRank:** Python (Basic), SQL (Basic), SQL (Intermediate)
+*   **Coding for Everyone: C and C++ Specialization** 
+    *   *C for Everyone: Programming Fundamentals & Structured Programming*
+    *   *C++ for C Programmers Part A & Part B*
 
 ## 🏆 GitHub Achievements
 
