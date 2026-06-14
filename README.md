@@ -20,6 +20,8 @@
 I am a passionate **CS undergrad** and **Researcher** crafting high-performance systems and exploring the depths of computer science. When I'm not writing code, you can find me reading fantasy, playing strategy games, or contributing to open source.
 
 ## ⚔️ Working On
+🚀 **Currently participating in NSOC 26** - My repository **[E-vara](https://github.com/SHAURYASANYAL3/E-Vara)** is currently ranking **32nd out of 125 projects**!
+
 ```text
 [████████░░] 80% Project Alpha: Distributed Caching
 [██████░░░░] 60% Project Beta: AI Research
@@ -84,6 +86,14 @@ These are the repositories I'd pin on GitHub:
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SHAURYASANYAL3&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  </a>
+</div>
+
+## 🏅 Holopin Badges
+
+<div align="center">
+  <a href="https://holopin.io/@shauryasanyal3">
+    <img src="https://holopin.me/shauryasanyal3" alt="@shauryasanyal3's Holopin board" />
   </a>
 </div>
 
