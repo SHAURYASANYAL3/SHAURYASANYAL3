@@ -20,7 +20,7 @@
 I am a passionate **CS undergrad** and **Researcher** crafting high-performance systems and exploring the depths of computer science. When I'm not writing code, you can find me reading fantasy, playing strategy games, or contributing to open source.
 
 ## ⚔️ Working On
-🚀 **Currently participating in NSOC 26** - My repository **[E-vara](https://github.com/SHAURYASANYAL3/E-Vara)** is currently ranking **32nd out of 125 projects**!
+🚀 **Currently participating in NSOC 26** - My repository **[E-vara](https://github.com/SHAURYASANYAL3/E-Vara)** is currently ranking **27th out of 125 projects**!
 
 ```text
 [████████░░] 80% Project Alpha: Distributed Caching
