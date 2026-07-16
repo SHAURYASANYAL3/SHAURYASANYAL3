@@ -117,8 +117,8 @@
 <text x="540" y="365.0" class="wrn row" style="animation-delay:1.40s">AI infrastructure open-source contributions</text>
 <text x="448" y="392.5" class="sec row" style="animation-delay:1.47s">~/highlights</text>
 <text x="448" y="410.0" class="key row" style="animation-delay:1.54s">Award</text>
-<text x="540" y="410.0" class="val row" style="animation-delay:1.54s">Ranking 32nd/125 in NSOC 26</text>
-<text x="448" y="427.5" class="row" style="animation-delay:1.61s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 36   ·   stars 2   ·   followers 3</tspan></text>
+<text x="540" y="410.0" class="val row" style="animation-delay:1.54s">Ranking 27th/125 in NSOC 26</text>
+<text x="448" y="427.5" class="row" style="animation-delay:1.61s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 36   ·   stars 2   ·   followers 4</tspan></text>
 <text x="448" y="455.0" class="sec row" style="animation-delay:1.68s">~/reach</text>
 <text x="448" y="472.5" class="key row" style="animation-delay:1.75s">Web</text>
 <text x="540" y="472.5" class="acc row" style="animation-delay:1.75s">fool-portfolio.vercel.app</text>
@@ -127,5 +127,5 @@
 <text x="448" y="507.5" class="key row" style="animation-delay:1.89s">Mail</text>
 <text x="540" y="507.5" class="acc row" style="animation-delay:1.89s">shauryasanyal.21jun@gmail.com</text>
 <text x="30" y="596" class="row" style="animation-delay:2.06s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to Full-Stack / AI Engineer roles</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 16 Jul 2026, 22:02 IST</text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 16 Jul 2026, 22:30 IST</text>
 </svg>

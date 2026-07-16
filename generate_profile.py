@@ -50,7 +50,7 @@ INFO = [
     ("AgentWatch","AI infrastructure open-source contributions", "warn"),
     ("__blank__", "", ""),
     ("__section__", "~/highlights", ""),
-    ("Award",    "Ranking 32nd/125 in NSOC 26", "val"),
+    ("Award",    "Ranking 27th/125 in NSOC 26", "val"),
     ("__stats__", "", ""),
     ("__blank__", "", ""),
     ("__section__", "~/reach", ""),
