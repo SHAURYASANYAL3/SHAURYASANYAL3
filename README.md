@@ -16,7 +16,7 @@
 
 ## 🐺 About Me
 *“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”*
-
+I'm **Shaurya Sanyal**, better known online as **Mr Fool**.
 I am a passionate **CS undergrad** and **Researcher** crafting high-performance systems and exploring the depths of computer science. When I'm not writing code, you can find me reading fantasy, playing strategy games, or contributing to open source.
 
 ## ⚔️ Working On
