@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:090d16&height=220&section=header&text=Shaurya%20Sanyal&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=Architecting%20Autonomous%20AI%20%7C%20Distributed%20Systems%20%7C%20Kernel%20%26%20Low-Level%20C&descSize=18&descAlignY=60&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:1f6feb,100:58a6ff&height=220&section=header&text=Shaurya%20Sanyal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Architecting%20Autonomous%20AI%20%7C%20Distributed%20Systems%20%7C%20Low-Level%20C&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=CS+Undergrad+%26+Systems+Researcher;AI+Agent+Infrastructure+%26+Observability;Debian+Core+%26+Low-Level+Systems+Hacker;Open-Source+Architect+%26+Builder" alt="Typing SVG" /></a>
 
@@ -167,6 +167,6 @@ I am a passionate **Computer Science Undergraduate & Systems Researcher** based 
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:16213e,100:0d1117&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:161b22&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
