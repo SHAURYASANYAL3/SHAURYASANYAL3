@@ -84,6 +84,14 @@ These are the repositories I'd pin on GitHub:
 ## 🏆 GitHub Achievements
 
 <div align="center">
+  <a href="https://github.com/SHAURYASANYAL3?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="95" alt="Galaxy Brain (Gold Tier)" title="Galaxy Brain (Gold Tier - 32 Accepted Answers)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="95" alt="Pull Shark (Gold Tier)" title="Pull Shark (Gold Tier - 128+ Merged PRs)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="95" alt="Pair Extraordinaire (Gold Tier)" title="Pair Extraordinaire (Gold Tier - 48+ Co-authored PRs)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw (< 5 min PR/Issue)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO (Merged without review)" />
+  </a>
+  <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SHAURYASANYAL3&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
   </a>
