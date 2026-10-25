@@ -1,139 +1,172 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=200&section=header&text=Welcome%20to%20my%20Realm&fontSize=50&fontColor=A8C8E8&animation=fadeIn&fontAlignY=38&desc=The%20Night%20is%20Dark%20and%20Full%20of%20Code&descAlignY=58&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:090d16&height=220&section=header&text=Shaurya%20Sanyal&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=Architecting%20Autonomous%20AI%20%7C%20Distributed%20Systems%20%7C%20Kernel%20%26%20Low-Level%20C&descSize=18&descAlignY=60&descAlign=50)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+undergrad;Researcher;Full-Stack+Developer;Open-Source+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=CS+Undergrad+%26+Systems+Researcher;AI+Agent+Infrastructure+%26+Observability;Debian+Core+%26+Low-Level+Systems+Hacker;Open-Source+Architect+%26+Builder" alt="Typing SVG" /></a>
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=SHAURYASANYAL3&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/SHAURYASANYAL3?style=flat-square&color=0366d6&label=FOLLOWERS)
-<a href="https://www.linkedin.com/in/shaurya-sanyal-7b57a0382"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shauryasanyal.21jun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://fool-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white" alt="Portfolio"/></a>
+[![Profile Views](https://komarev.com/ghpvc/?username=SHAURYASANYAL3&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SHAURYASANYAL3)
+[![Followers](https://img.shields.io/github/followers/SHAURYASANYAL3?style=for-the-badge&color=1f6feb&label=FOLLOWERS)](https://github.com/SHAURYASANYAL3)
+<a href="https://www.linkedin.com/in/shaurya-sanyal-7b57a0382"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shauryasanya.21jun@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://fool-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
 
 </div>
+
+---
 
 ## 🐺 About Me
-*“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”*
-I'm **Shaurya Sanyal**, better known online as **Mr Fool**.
-I am a passionate **CS undergrad** and **Researcher** crafting high-performance systems and exploring the depths of computer science. When I'm not writing code, you can find me reading fantasy, playing strategy games, or contributing to open source.
 
-## ⚔️ Working On
-🚀 **Currently participating in NSOC 26** - My repository **[E-vara](https://github.com/SHAURYASANYAL3/E-Vara)** is currently ranking **27th out of 125 projects**!
+> *“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”*
 
-```text
-[████████░░] 80% Project Alpha: Distributed Caching
-[██████░░░░] 60% Project Beta: AI Research
-[████░░░░░░] 40% Open Source Contributions
-```
+I'm **Shaurya Sanyal**, better known in the dev sphere as **Mr Fool**.  
+I am a passionate **Computer Science Undergraduate & Systems Researcher** based in Visakhapatnam, dedicated to pushing the boundaries of AI systems, security infrastructure, and low-level computing.
 
-<div align="center">
-  <img src="./winter-banner.svg" alt="Winter Banner" width="800" />
-</div>
+- 🔭 **Current Focus:** AI Agent Observability & Reasoning Chains, Distributed Systems, Custom Linux Kernels, and Cryptographic/IAM architectures.
+- ⚡ **Philosophy:** Writing clean, scalable code that solves real production bottlenecks. Deletion over bloat; correctness over hype.
+- 🎮 **Beyond The Terminal:** Deep-dive fantasy literature, strategic simulation games, and open-source contribution loops.
 
-## 🧠 Skills & Expertise
+---
 
-### 🛡️ Strong Evidence
-- **Languages:** Python, SQL, TypeScript, JavaScript, HTML/CSS
-- **AI & Data:** AI Application Development, AI Agents, LLM Integrations
-- **Software Engineering:** Full Stack Development, Product Development, Startup MVP Building
-- **Infrastructure:** Linux Fundamentals
-
-### 🔬 Moderate Evidence
-- **AI & ML:** Machine Learning, Recommender Systems, Reinforcement Learning
-- **Security:** Cybersecurity Fundamentals, IAM Concepts
-- **Other:** Database Design, Open Source Contributions
-
-## 🏆 Repos to Show Off
-These are the repositories I'd pin on GitHub:
-
-| Project | Description | Why it stands out |
-|---------|-------------|-------------------|
-| **[AgentIAM](https://github.com/SHAURYASANYAL3/AgentIAM)** | AI + Security IAM | Identity & Access Management is a serious engineering domain. Signals Authentication, Authorization, Security Architecture, and AI Systems. |
-| **[E-Vara](https://github.com/SHAURYASANYAL3/E-Vara)** | Digital Reputation Protection | Unique AI + Security combination that stands out more than a simple chatbot clone. |
-| **[SafeRoute](https://github.com/SHAURYASANYAL3/SafeRoute)** | Real-world problem | Student safety use case showing practical product thinking over toy AI demos. |
-| **[RyuOS](https://github.com/SHAURYASANYAL3/RyuOS)** | Debian Customization | Rare among students. Demonstrates Linux, systems programming, and technical depth. |
-| **[AgentWatch](https://github.com/SHAURYASANYAL3/AgentWatch)** | Open-source Contribution | Contributed 7 merged PRs. Real open-source contributions in AI infrastructure showing collaboration experience. |
-
-## 📜 Certifications: What They Actually Prove
-
-### 🤖 AI / Machine Learning
-*   **Supervised Machine Learning: Regression and Classification** (DeepLearning.AI / Andrew Ng) - *Shows understanding of: Linear Regression, Logistic Regression, Classification, Basic ML workflows*
-*   **Advanced Learning Algorithms** (DeepLearning.AI + Stanford) - *Shows exposure to: Neural Networks, TensorFlow basics, Decision Trees, Ensemble methods*
-*   **Unsupervised Learning, Recommenders, Reinforcement Learning** (DeepLearning.AI) - *Shows exposure to: Clustering, Recommender Systems, Basic Reinforcement Learning*
-
-### 🔐 Cybersecurity
-*   **Deloitte Australia Cyber Job Simulation** - *Shows exposure to: Cybersecurity workflows, Threat analysis, Security reporting*
-
-### 📊 Data
-*   **Deloitte Australia Data Analytics Job Simulation** - *Shows exposure to: Data analysis, Business analytics, Visualization*
-
-### 💼 Technology Consulting & Business
-*   **Deloitte Australia Technology Job Simulation** - *Shows exposure to: Consulting mindset, Technology recommendations*
-*   **Entrepreneurship & Skill Development Program** (RTIH AP)
-*   **Google Bring AI to Work Workshop**
-*   **DUHacks Participation Certificate**
-
-### 💻 Programming
-*   **HackerRank:** Python (Basic), SQL (Basic), SQL (Intermediate)
-*   **Coding for Everyone: C and C++ Specialization** 
-    *   *C for Everyone: Programming Fundamentals & Structured Programming*
-    *   *C++ for C Programmers Part A & Part B*
-
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Accolades
 
 <div align="center">
   <a href="https://github.com/SHAURYASANYAL3?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="95" alt="Galaxy Brain (Gold Tier)" title="Galaxy Brain (Gold Tier - 32 Accepted Answers)" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="95" alt="Pull Shark (Gold Tier)" title="Pull Shark (Gold Tier - 128+ Merged PRs)" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="95" alt="Pair Extraordinaire (Gold Tier)" title="Pair Extraordinaire (Gold Tier - 48+ Co-authored PRs)" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw (< 5 min PR/Issue)" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO (Merged without review)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/galaxy-brain-gold.png" width="92" alt="Galaxy Brain (Gold Tier)" title="Galaxy Brain (Gold Tier — 32 Accepted Q&A Answers)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-gold.png" width="92" alt="Pull Shark (Gold Tier)" title="Pull Shark (Gold Tier — 130+ Merged Pull Requests)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="92" alt="Pair Extraordinaire (Gold Tier)" title="Pair Extraordinaire (Gold Tier — 48+ Co-authored PRs)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="92" alt="Quickdraw" title="Quickdraw (Closed Issue/PR in < 5 mins)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="92" alt="YOLO" title="YOLO (Merged PR without review)" />
   </a>
   <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SHAURYASANYAL3&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SHAURYASANYAL3&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
-## 🏅 Holopin Badges
+---
+
+## 🛠️ Weapons of Choice (Tech Stack)
 
 <div align="center">
-  <a href="https://holopin.io/@shauryasanyal3">
-    <img src="https://holopin.me/shauryasanyal3" alt="@shauryasanyal3's Holopin board" />
-  </a>
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### AI, Machine Learning & Systems
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Debian%2FLinux-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Web, Architecture & DevOps
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 </div>
 
-## 📈 GitHub Metrics
+---
+
+## 🚀 Flagship Engineering Projects
+
+| Project | Domain | Architecture Highlights |
+| :--- | :--- | :--- |
+| **[E-vara](https://github.com/SHAURYASANYAL3/E-vara)** | AI Security & Identity Protection | AI-driven digital reputation defense MVP designed to protect personal and corporate identities from automated impersonation and digital threats. |
+| **[AgentWatch](https://github.com/SHAURYASANYAL3/AgentWatch)** | AI Infrastructure & Observability | Real-time reasoning auditor and observability platform for AI agents. Catches silent logical failures in reasoning chains before they hit production. |
+| **[AnyWindows](https://github.com/SHAURYASANYAL3/AnyWindows)** | Systems & Reverse Engineering | Zero-dependency Windows-to-macOS game porter and server-side AI anti-cheat telemetry pipeline. |
+| **[ATLAS](https://github.com/SHAURYASANYAL3/ATLAS)** | Private Compute & Geometry Retrieval | AI infrastructure allowing agents to reason across enterprise data without data leaving its source via privacy-preserving cross-org compute. |
+| **[RyuOS](https://github.com/SHAURYASANYAL3/RyuOS)** | Operating System Architecture | Custom Debian-based OS built from ground zero using `live-build`, QEMU emulation, shell virtualization, and low-level C tooling. |
+| **[SafeRoute](https://github.com/SHAURYASANYAL3/SafeRoute)** | Real-Time Safety Orchestration | Adaptive student safety and dynamic routing coordination system built for real-world municipal environments. |
+| **[fool-portfolio](https://github.com/SHAURYASANYAL3/fool-portfolio)** | 3D Web Experience | Cyber-neural interactive 3D web experience showcasing full-stack capabilities, graphics shaders, and system design. |
+
+---
+
+## 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/main/github-metrics.svg" alt="Metrics" width="800" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=SHAURYASANYAL3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Shaurya's GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=SHAURYASANYAL3&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution Streak" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAURYASANYAL3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="60%" />
+
 </div>
 
-## 🧊 3D Contribution Calendar
+---
+
+## 🎮 Contribution Matrix & Dynamics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contrib" />
+
+### 🐍 Contribution Grid Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+### 🌌 3D Contribution Landscape
+<img src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Night View" width="90%" />
+
+<br/><br/>
+
+### 🏅 Holopin Badges
+<a href="https://holopin.io/@shauryasanyal3">
+  <img src="https://holopin.me/shauryasanyal3" alt="@shauryasanyal3's Holopin Board" />
+</a>
+
 </div>
 
-## 🐍 Contribution Grid Snake
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SHAURYASANYAL3/SHAURYASANYAL3/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+## 📜 Verified Certifications & Technical Proofs
 
-## 📜 Recent Activity
+<details open>
+<summary><b>🧠 Machine Learning & Artificial Intelligence</b></summary>
+<br/>
+
+* **Supervised Machine Learning: Regression & Classification** — *DeepLearning.AI / Andrew Ng* (Cost functions, gradient descent, linear & logistic models).
+* **Advanced Learning Algorithms** — *DeepLearning.AI + Stanford University* (Deep neural nets, backpropagation, tree ensembles, decision forests).
+* **Unsupervised Learning, Recommenders, Reinforcement Learning** — *DeepLearning.AI* (K-means clustering, collaborative filtering, Q-learning).
+</details>
+
+<details open>
+<summary><b>🛡️ Cybersecurity & Systems Engineering</b></summary>
+<br/>
+
+* **Deloitte Australia Cyber Job Simulation** — Enterprise cybersecurity workflows, threat surface assessment, risk mitigation.
+* **Deloitte Australia Data Analytics Simulation** — Business telemetry, structured forensic analysis, pipeline modeling.
+* **Coding for Everyone: C and C++ Specialization** — Memory models, pointers, dynamic memory allocation, and algorithmic structures.
+* **HackerRank Certifications:** Python (Basic), SQL (Basic), SQL (Intermediate).
+</details>
+
+---
+
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:16213e,100:0d1117&height=120&section=footer)
 
 </div>
