@@ -16,6 +16,87 @@
 
 ---
 
+
+<!--
+SCHEMA_ORG_METADATA_START
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shaurya Sanyal",
+  "alternateName": "Mr Fool",
+  "url": "https://github.com/SHAURYASANYAL3",
+  "image": "https://avatars.githubusercontent.com/u/128920982?v=4",
+  "sameAs": [
+    "https://www.linkedin.com/in/shaurya-sanyal-7b57a0382",
+    "https://fool-portfolio.vercel.app/",
+    "https://shauryasanyal3.github.io/"
+  ],
+  "jobTitle": "Systems Researcher & AI Infrastructure Hacker",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Shinraya Tech Labs",
+    "url": "https://github.com/Shinraya-Tech-Labs"
+  },
+  "knowsAbout": [
+    "Autonomous AI Agent Security",
+    "Pre-Execution Invariant Engines",
+    "Distributed Systems Telemetry",
+    "Custom Debian Kernel Architecture",
+    "Low-Level C & Rust Systems",
+    "Forensic Security Telemetry"
+  ]
+}
+SCHEMA_ORG_METADATA_END
+-->
+
+---
+
+## 📌 Pinned Flagship Architectures
+
+<div align="center">
+  <table border="0" style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Shinraya-Tech-Labs/AgentWatch">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinraya-Tech-Labs&repo=AgentWatch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="100%" alt="Panoptis / AgentWatch" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/SHAURYASANYAL3/E-vara">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAURYASANYAL3&repo=E-vara&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="100%" alt="E-vara" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/SHAURYASANYAL3/Ayuvani">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAURYASANYAL3&repo=Ayuvani&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="100%" alt="Ayuvani" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/SHAURYASANYAL3/AgentWatch-rust">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAURYASANYAL3&repo=AgentWatch-rust&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="100%" alt="AgentWatch Rust" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/SHAURYASANYAL3/AnyWindows">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAURYASANYAL3&repo=AnyWindows&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="100%" alt="AnyWindows" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/SHAURYASANYAL3/nsoc">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAURYASANYAL3&repo=nsoc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="100%" alt="Autonomous SOC" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+---
+
 ## 🐺 About Me
 
 > *“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”*
