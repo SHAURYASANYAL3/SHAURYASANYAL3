@@ -209,6 +209,15 @@ I am a passionate **Computer Science Undergraduate & Systems Researcher** based 
 
 <br/><br/>
 
+### 🎏 Git Koi Activity Pond
+<picture>
+  <img src="koi/koi.gif" width="256" alt="Shaurya's Koi" />
+</picture>
+<br/>
+<sub><i>Living pixel-art koi dynamically painted daily from public GitHub contributions via <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></i></sub>
+
+<br/><br/>
+
 ### 🏅 Holopin Badges
 <a href="https://holopin.io/@shauryasanyal3">
   <img src="https://holopin.me/shauryasanyal3" alt="@shauryasanyal3's Holopin Board" />
